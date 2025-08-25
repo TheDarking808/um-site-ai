@@ -14,7 +14,7 @@ body {
 }
 
 a { 
-    transition: all 0.3s ease; 
+    transition: all 0.2s ease; 
     text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ button:focus { outline: none; }
 
 p {
     color: #666;
-    line-height: 1.9;
+    line-height: 2.0;
 }
 
 .tm-title-gray { color: #666; }
